@@ -1,0 +1,9 @@
+c:\users\ross\documents\visual studio 2012\Projects\Ftp\Ftp\bin\Debug\Ftp.exe.config
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\bin\Debug\Ftp.exe
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\bin\Debug\Ftp.pdb
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\obj\Debug\Ftp.exe
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\obj\Debug\Ftp.pdb
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\bin\Debug\Ftp.exe.manifest
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\bin\Debug\Ftp.application
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\obj\Debug\Ftp.exe.manifest
+C:\Users\ROSS\Documents\Visual Studio 2012\Projects\Ftp\Ftp\obj\Debug\Ftp.application
